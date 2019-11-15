@@ -1,0 +1,10 @@
+{
+  "setor": [
+    { "id": 1, "name": "Filhos do Leão", "lider": "Luiz", "membros": 65},
+    { "id": 2, "name": "Betel", "lider": "Denis", "membros": 29 },
+    { "id": 3, "name": "Ebenézer", "lider": "Igracilde", "membros": 40 },
+    { "id": 4, "name": "Ágape", "lider": "ketiane", "membros": 25 },
+    { "id": 5, "name": "Cannã", "lider": "Roregerio", "membros": 31 }
+  ]
+
+}
